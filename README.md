@@ -18,8 +18,11 @@ I'm a data professional based in California with a focus on turning raw, messy d
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Core Skills:** Data Cleaning · Data Analysis · Data Validation · SQL Querying · Python Scripting - Data Visualization
+**Core Skills:** Data Cleaning · Data Analysis · Data Validation · SQL Querying · Python Scripting · Data Visualization
 
 ---
 
@@ -38,14 +41,15 @@ I'm a data professional based in California with a focus on turning raw, messy d
 
 - Advanced SQL (window functions, CTEs, performance tuning)
 - Pandas & data wrangling at scale
-- Machine Learnng Modeling & Data Engieering Principles
+- Machine Learning Modeling & Data Engineering Principles
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edwin-cortez-3787829b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-cortez-3787829b)
 
 ---
 
-*Open to senior product data analyst and data operations roles — especially in education or SAAS companies*
+*Open to senior product data analyst and data operations roles — especially in education or SaaS companies*
+
